@@ -225,3 +225,6 @@ Jump to section:
 |[VEXXHOST](https://vexxhost.com/)|Cloud computing services|Montreal, QC|[VEXXHOST on LinkedIn](https://www.linkedin.com/company/vexxhost/)|
 |[VMware](https://www.vmware.com/ca.html)|Virtualization, cloud computing|Palo Alto, CA|[VMWare careers](https://careers.vmware.com/)|
 |[Zapier](https://zapier.com/)|Task/Workflow automation|San Francisco, CA|[Zapier careers](https://zapier.com/jobs/#job-openings)|
+
+# Toronto-based Tech Companies
+|[Alida](https://www.alida.com/)|Total Experience Management|Toronto|[Alida careers](https://www.alida.com/careers)|
