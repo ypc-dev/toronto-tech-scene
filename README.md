@@ -228,6 +228,6 @@ Jump to section:
 
 # My List 
 
-| Company | Industry/product | Learn more |
+| Company | Industry/product | HQ location | Learn more |
 |---------|------------------|------------|
 |[Alida](https://www.alida.com/)|Total Experience Management|Toronto|[Alida careers](https://www.alida.com/careers)|
