@@ -226,5 +226,8 @@ Jump to section:
 |[VMware](https://www.vmware.com/ca.html)|Virtualization, cloud computing|Palo Alto, CA|[VMWare careers](https://careers.vmware.com/)|
 |[Zapier](https://zapier.com/)|Task/Workflow automation|San Francisco, CA|[Zapier careers](https://zapier.com/jobs/#job-openings)|
 
-# Toronto-based Tech Companies
+# My List 
+
+| Company | Industry/product | Learn more |
+|---------|------------------|------------|
 |[Alida](https://www.alida.com/)|Total Experience Management|Toronto|[Alida careers](https://www.alida.com/careers)|
