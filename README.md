@@ -231,3 +231,4 @@ Jump to section:
 | Company | Industry/product | HQ location | Learn more |
 |---------|------------------|-------------|------------|
 |[Alida](https://www.alida.com/)|Total Experience Management|Toronto|[Alida careers](https://www.alida.com/careers)|
+|[Affirm](https://www.affirm.com/)|BNPL|Remote, Canada|[Affirm careers](https://www.affirm.com/careers)|
